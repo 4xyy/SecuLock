@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+client_secrets.json
+honeypot_credentials.txt
